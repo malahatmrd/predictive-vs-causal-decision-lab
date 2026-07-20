@@ -1,0 +1,12 @@
+metric,value
+treated_propensity_min,0.12068249858766407
+treated_propensity_max,0.5951201952677667
+control_propensity_min,0.12636500429394712
+control_propensity_max,0.6859910219551432
+overlap_lower,0.12636500429394712
+overlap_upper,0.5951201952677667
+customers_outside_overlap,4.0
+overlap_fraction,0.9993333333333333
+extreme_propensity_count,0.0
+maximum_treated_weight,8.286205636301087
+maximum_control_weight,3.1846223194839607
