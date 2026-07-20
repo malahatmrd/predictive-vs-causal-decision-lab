@@ -1,0 +1,5 @@
+metric,value
+roc_auc,0.6375824132499179
+brier_score,0.23386159336084172
+mean_predicted_probability,0.44828662095313987
+observed_test_outcome_rate,0.4553333333333333
